@@ -1,0 +1,12 @@
+C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe -m venv venv
+
+pip install opencv-python matplotlib
+
+
+
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
+
+
+
